@@ -39,3 +39,4 @@ int main(){
     return 0;
 }
 ```
+[link_to_code](test_folder/sums_of_four_values.cpp)
