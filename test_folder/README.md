@@ -39,6 +39,6 @@ int main(){
     return 0;
 }
 ```
-[link_to_code](/sums_of_four_values.cpp)
+[link_to_code](https://github.com/Mingyuanz1111/test/blob/main/test_folder/sums_of_four_values.cpp)
 
 [link_to_inner_folder](test_folder/inner_folder)
