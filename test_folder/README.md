@@ -40,3 +40,5 @@ int main(){
 }
 ```
 [link_to_code](/sums_of_four_values.cpp)
+
+[link_to_inner_folder](test_folder/inner_folder)
